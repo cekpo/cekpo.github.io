@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cekpo.csgad.com/XPD/sitemap.xml.gz
